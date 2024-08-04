@@ -12,7 +12,7 @@ from aiogram.types import Message, CallbackQuery, InlineKeyboardButton, FSInputF
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from PIL import Image
 
-API_TOKEN = '7290855598:AAHUz1msShLtBDZnOgEhSXd4jniAU2fTDOw'
+API_TOKEN = 'your_token'
 
 logging.basicConfig(level=logging.INFO)
 
